@@ -10,3 +10,4 @@
 * Atom
 * Flash
 * Capitan America
+* Thor
