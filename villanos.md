@@ -8,3 +8,4 @@
 5. Deadshot
 6. Guason
 7. Pinguino
+8. Cara Cortada
