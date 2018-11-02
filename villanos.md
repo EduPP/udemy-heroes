@@ -9,3 +9,4 @@
 6. Guason
 7. Pinguino
 8. Cara Cortada
+9. Tanos
