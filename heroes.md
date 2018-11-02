@@ -12,3 +12,4 @@
 * Capitan America
 * Thor
 * Iron Man
+* Hulk
