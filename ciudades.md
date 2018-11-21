@@ -5,3 +5,4 @@
 3. Hell's Kitchen
 4. Namekusei
 5. Thondera
+6. Cusco
