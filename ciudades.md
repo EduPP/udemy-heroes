@@ -6,3 +6,5 @@
 4. Namekusei
 5. Thondera
 7. Lima
+6. Cusco
+
